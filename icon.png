@@ -1,0 +1,22 @@
+
+<html>
+  <head>
+    <style>
+      body.pp-not-found { font-size: 16px; text-align: center; }
+      body.pp-not-found ul { width: 45%; text-align: left; margin: 30px auto; }
+    </style>
+  </head>
+
+  <body class="pp-not-found">
+    <img src="/images/sad_panda.png?1447900773" />
+    <br/>
+
+    <p>We found a site called <strong>resqmob.paperplane.io</strong>, but couldn't find <strong>/icon.png</strong>.</p>
+
+    <p>Make sure you have a file in your Dropbox folder at <strong>Apps/paperplane.io/resqmob.paperplane.io/icon.png</strong>.</p>
+
+    <p>If the file was recently added, we might have been grabbing it in the background. Refresh this page right about...now, and hopefully it will be there.</p>
+
+    <p>Still having trouble? <a href="mailto:support@paperplane.io?subject=Y U No Work?">Send us an email</a> and we'll get you straightened out.</p>
+  </body>
+</html>

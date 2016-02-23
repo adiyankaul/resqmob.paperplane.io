@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://www.paperplane.io/sitemap.xml
+Sitemap: http://blog.paperplane.io/sitemap.xml
